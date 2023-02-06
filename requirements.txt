@@ -1,0 +1,5 @@
+time
+requests
+bs4
+pandas
+sqlalchemy
